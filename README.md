@@ -1,5 +1,6 @@
 # Yajamin_Jaime_Informe_Tarea1
-1.OBJETIVOS;
+1.OBJETIVOS
+
 Comprender los principios y conceptos de circuitos eléctricos donde se revisara muchos temas fundamentales: cantidades y unidades, las magnitudes eléctrica fundamentales: voltaje, intensidad, resistencia eléctrica, potencia y energía, así como la Ley de Ohm y las demás expresiones que relacionan estas magnitudes entre sí, permitiendo la resolución de problemas numéricos sencillos para el buen desarrollo de la materia, se desarrolló la lectura y comprensión del libro Floyd donde se complementó y reforzo temas vistos en clase para una mejor ejecución del presente informe.
 
 Objetivos específicos 
