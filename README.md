@@ -6,8 +6,11 @@ Comprender los principios y conceptos de circuitos eléctricos donde se revisara
 Objetivos específicos 
 
 •	Revisar lecturas referentes a las recomendadas en las cuales incluye Floyd, para una comprensión de los temas relacionados a este informe.
+
 •	Conocer y comprender concepto, formulas y aplicaciones que se utiliza en los principios de circuitos eléctricos. 
+
 •	Describir procesos realizados con formulas acorde al ejercicio y utilizar lo aprendido en clase para una mejor ejecución al realizar los cuestionarios.
+
 •	Concluir con un informe limpio y ordenado para una buena comprensión del lector con redacciones concisas.
 
 MARCO TEÓRICO 
