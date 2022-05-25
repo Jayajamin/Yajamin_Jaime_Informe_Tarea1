@@ -10,6 +10,6 @@ Objetivos específicos
 •	Concluir con un informe limpio y ordenado para una buena comprensión del lector con redacciones concisas.
 
 MARCO TEÓRICO 
-![image](https://user-images.githubusercontent.com/106272493/170338420-ba82ee1a-fb27-4af4-a1b0-8011367de775.png)
+![Mapa mental](https://user-images.githubusercontent.com/106272493/170338929-96c8dabe-65fb-413c-99df-5db32f866b41.png)
 ![Tablero en blanco](https://user-images.githubusercontent.com/106272493/170338582-2b84c7e3-e4f9-4c2a-98d0-1a9a301d1641.png)
 
