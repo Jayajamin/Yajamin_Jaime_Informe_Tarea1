@@ -15,16 +15,24 @@ MARCO TEÓRICO
 ![Tablero en blanco](https://user-images.githubusercontent.com/106272493/170338582-2b84c7e3-e4f9-4c2a-98d0-1a9a301d1641.png)
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 AUTOEVALUACIÓN
+
 1.	La unidad de corriente es
+
 (a) volt             (b) watt
 (c) ampere           (d) joule
+
 2.	La unidad de resistencia es
+
 (a) ampere            (c) hertz 
 (b) henry               (d) ohm 
+
 3.	15,000 W es lo mismo que
+
 (a) 15 mW             (c) 15 MW 
 (b) 15 Kw               (d) 15 W
+
 4.	La cantidad 56*10-3 es lo mismo que
 (a) 0.056                 (c) 560 
 (b) 0.560                 (d) 56,000
