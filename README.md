@@ -431,3 +431,20 @@ R=La lectura tomada en la escala de ohms (superior) es de 10 k.
 45.	¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
 R=Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución
+
+VIDEO
+
+
+CONCLUSIONES
+
+Se logro culminar el proceso con mucho éxito utilizando toda la teoría y ecuaciones vistas en clases e investigadas, nos ayudo mucho a reforzar y complementar lo que es fundamentos de circuitos eléctricos donde vimos :voltaje, intensidad, resistencia eléctrica, potencia y energía, así como la Ley de Ohm y las demás expresiones, se logró una buena ejecución ordenada y concisa.
+
+Bibliografía
+
+Clouds, L. (12 de 03 de 2016). FISICALAB. Obtenido de FISICALAB: https://www.fisicalab.com/apartado/resistencia-electrica-conductor
+
+Douglas-Young. (25 de 05 de 2018). WIKIPEDIA. Obtenido de WIKIPEDIA: https://es.wikipedia.org/wiki/Resistencia_el%C3%A9ctrica
+
+Moreno, J. F. ( 2011). Problemas de circuitos eléctricos. Obtenido de Problemas de circuitos eléctricos: https://biblioteca.unirioja.es/biba/pag3.php?-cod=490
+
+
