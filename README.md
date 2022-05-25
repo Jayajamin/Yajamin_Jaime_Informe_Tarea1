@@ -375,6 +375,8 @@ b) 1.8KΩ ± 10%
 (c) blanco, naranja, café, café, café         R= 9.31KΩ ± 1%
 
 36.	El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+	![image](https://user-images.githubusercontent.com/106272493/170342271-cc853710-c82d-4968-a13d-05729e8fe5ee.png)
+
 
 R=La resistencia entre cada terminal es de 500 Ω
  
@@ -389,29 +391,40 @@ R=La resistencia entre cada terminal es de 500 Ω
 SECCIÓN 2–6 El circuito eléctrico
 
 38.	Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+            ![image](https://user-images.githubusercontent.com/106272493/170342379-611cd08c-3628-4e4d-bf53-dc0ba37cf3dd.png)
+
  
 39.	¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
- 
+ ![image](https://user-images.githubusercontent.com/106272493/170342458-e33e45fd-916e-4b51-884b-86c64f0cacb6.png)
+
 R= A través del resistor número 5 siempre va a transcurrir la corriente.
 
 40.	Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
-  
+  ![image](https://user-images.githubusercontent.com/106272493/170342566-ac4a9a50-f11e-48dd-8cd9-86c354de73fb.png)
+
 R=Utilizamos con un interruptor rotatorio
+
 SECCIÓN 2–7 Mediciones de circuito básicas
+
 41.	Explique cómo mediría la resistencia de R2 en la figura 2-72.
+![image](https://user-images.githubusercontent.com/106272493/170342685-554b9aa9-514e-44b8-9d3c-5acabe4da3af.png)
+
+  R= Aquí debemos colocar el multímetro en ohmios para que así pueda leer el valor de la resistencia y también colocamos el rojo en polaridad positiva y el negro en polaridad negativa y nos dará el resultado 
   
-R= Aquí debemos colocar el multímetro en ohmios para que así pueda leer el valor de la resistencia y también colocamos el rojo en polaridad positiva y el negro en polaridad negativa y nos dará el resultado 
 42.	En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
- 
+ ![image](https://user-images.githubusercontent.com/106272493/170342812-8372e8da-f929-4ed0-9518-271b45c0e1e9.png)
+
 
 43.	Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
+![image](https://user-images.githubusercontent.com/106272493/170342898-5594db66-745e-42f8-99d5-e7293ded6256.png)
 
- 
 R= Colocamos el voltímetro en los puntos colocados en la imagen ya que así nos será más fácil por el SWI que tenemos donde no importa su posición nos va a dar el valor ya sea pasando por cualquiera de las 4 resistencias
 
 44.	¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
- 
+ ![image](https://user-images.githubusercontent.com/106272493/170342993-8d5559ff-86f5-4f9c-b837-2c8698c766c6.png)
+
 R=La lectura tomada en la escala de ohms (superior) es de 10 k.
 
 45.	¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
 R=Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución
