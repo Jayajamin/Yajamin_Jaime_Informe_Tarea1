@@ -25,23 +25,23 @@ AUTOEVALUACIÓN
 
 (a) volt             (b) watt
 
-(c) ampere           (d) joule
+(c) (R=ampere)       (d) joule
 
 2.	La unidad de resistencia es
 
 (a) ampere            (c) hertz 
 
-(b) henry               (d) ohm 
+(b) henry             (d) (R=ohm) 
 
 3.	15,000 W es lo mismo que
 
 (a) 15 mW             (c) 15 MW 
 
-(b) 15 Kw               (d) 15 W
+(b) (R=15 Kw)         (d) 15 W
 
 4.	La cantidad 56*10-3 es lo mismo que
 
-(a) 0.056                 (c) 560 
+(a) (R=0.056)             (c) 560 
 
 (b) 0.560                 (d) 56,000
 
@@ -49,11 +49,11 @@ AUTOEVALUACIÓN
 
 (a) 10 MA                              (c) 10 kA 
 
-(b) 10 A                                 (d) 10 mA
+(b) 10 A                               (d) (R=10 mA)
 
 6.	Veinte millones de ohms pueden ser expresados como
 
-(a) 20 mÆ                             (c) 20 MÆ 
+(a) 20 mÆ                            (c) (R=20 MÆ) 
 
 (b) 20 MW                            (d) 20 mÆ
 
@@ -205,33 +205,33 @@ AUTOEVALUACIÓN 2
 
 16.	Las órbitas de los electrones se llaman
 
-(a) capas (b) núcleos 
+(a) (R=capas) (b) núcleos 
 
-(c) ondas (d) valencias
+(c) ondas     (d) valencias
 
 17.	Cuando se colocan cerca uno del otro, un material positivamente cargado y uno negativamente cargado se
 
-(a) repelen (b) vuelven neutros 
+(a) repelen     (b) vuelven neutros 
 
-(c) atraen (d) intercambian cargas
+(c) (R=atraen)  (d) intercambian cargas
 
 18.	Diferencia de potencial es otro término para
 
-(a) energía (b) voltaje 
+(a) energía                                (b) (R=voltaje )
 
-(c) la distancia de un electrón al núcleo (d) carga
+(c) la distancia de un electrón al núcleo  (d) carga
 
 19.	¿Cuál de los siguientes artefactos no es un tipo de fuente de energía?
 
-(a) batería (b) celda solar 
+(a) batería        (b) celda solar 
 
-(c) generador (d) potenciómetro
+(c) generador      (d) (R=potenciómetro)
 
 20.	La corriente eléctrica se define como
 
 (a) electrones libres
 
-(b) la velocidad del flujo de los electrones libres
+(b) (R=la velocidad del flujo de los electrones libres)
 
 (c) la energía requerida para mover electrones
 
@@ -239,15 +239,15 @@ AUTOEVALUACIÓN 2
 
 21.	El propósito primordial de un resistor es
 
-(a) incrementar la corriente         (b) limitar la corriente
+(a) incrementar la corriente         (b) (R=limitar la corriente)
 
 (c) producir calor                   (d) resistir el cambio de la corriente
 
 22.	En un circuito dado, la corriente no debe exceder de 22 A. ¿Qué valor de fusible es mejor?
 
-(a) 10 A (b) 25 A 
+(a) 10 A              (b) 25 A 
 
-(c) 20 A (d) no se requiere fusible
+(c) (R=20 A)          (d) no se requiere fusible
 
 SECCIÓN 2–2 Carga eléctrica
 
