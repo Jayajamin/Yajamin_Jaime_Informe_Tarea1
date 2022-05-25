@@ -16,8 +16,8 @@ MARCO TEÓRICO
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 AUTOEVALUACIÓN
 1.	La unidad de corriente es
-(a) volt                  (b) watt
- (c) ampere           (d) joule
+(a) volt             (b) watt
+(c) ampere           (d) joule
 2.	La unidad de resistencia es
 (a) ampere            (c) hertz 
 (b) henry               (d) ohm 
