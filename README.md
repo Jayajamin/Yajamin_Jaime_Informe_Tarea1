@@ -435,6 +435,8 @@ R=Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolució
 VIDEO
 
 
+LINK :https://www.youtube.com/watch?v=zxhxqrqKaMc
+
 CONCLUSIONES
 
 Se logro culminar el proceso con mucho éxito utilizando toda la teoría y ecuaciones vistas en clases e investigadas, nos ayudo mucho a reforzar y complementar lo que es fundamentos de circuitos eléctricos donde vimos :voltaje, intensidad, resistencia eléctrica, potencia y energía, así como la Ley de Ohm y las demás expresiones, se logró una buena ejecución ordenada y concisa.
